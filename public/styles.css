@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background: red;
+  margin: auto, 5%;
+  text-align: center;
+  padding: 5%;
+  color: white;
+  background-image: url(poke.jpg);
+  background-position-x: center;
+  background-position-y: 10%; 
+}
+
+h3{
+  margin-top: 40px;
+}
+ul{
+  list-style-type: none;
+}
