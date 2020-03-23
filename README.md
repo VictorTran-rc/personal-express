@@ -9,5 +9,5 @@
 
 ## Usage
 
-1. run `npm run personal-birthday-express`
+1. run `npm run personal-express`
 2. Navigate to `localhost:3000`
