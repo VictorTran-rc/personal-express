@@ -1,7 +1,7 @@
 # personal-express-app-gif
 
 !(public/pokemon.png)
-
+pokemon.png
 ## Installation
 
 1. Clone repo
