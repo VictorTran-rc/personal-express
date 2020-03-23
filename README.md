@@ -1,3 +1,13 @@
-# personal-express
+# personal-express-app-gif
 
-Used the gif api to pull up images and also stored it in the local data base
+!(public/pokemon.png)
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `npm run personal-birthday-express`
+2. Navigate to `localhost:3000`
