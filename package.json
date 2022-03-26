@@ -19,7 +19,7 @@
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "nodemon": "^2.0.2"
   },
   "repository": {
